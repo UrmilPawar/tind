@@ -2,6 +2,7 @@
 - This Project was a part of our PMKVY training which involves creating a Tinder-like website for Dogs. The idea was to learn various Bootstrap concepts
 - Various Bootstrap components like Carousel, Card, Buttons, Navbar etc were used. 
 - HTML5, CSS3, Google Fonts, and Font Awesome were also used to build the website.
+- The website is responsive.
 
 # Following are the images
 ![img-1](/images/img-1.png)
